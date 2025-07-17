@@ -1,9 +1,0 @@
-Manifest-Version: 1.0
-Implementation-Title: KeyCommand2
-Implementation-Version: 0.0.1
-Specification-Vendor:  
-Specification-Title: KeyCommand2
-Implementation-Timestamp: 2025-07-13T13:55:44+0800
-Specification-Version: 1
-Implementation-Vendor:  
-
